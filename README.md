@@ -9,18 +9,27 @@ I named mine after the Elise but I dutch-ified it.
 - stabless
 - 15 degree split
 
-## Eliza stacked acrylic build plan
-- Metal plate in middle (1.5mm).
-- 8mm to edge of keycaps (2 x 3mm closed layer + 2mm top layer)
-- 9mm space on bottom (3 x 3mm open layer)
-- one 2mm base layer
+## Stacked acrylic build plan
+- 20.5mm thickness:
+  - Metal plate in middle (1.5mm).
+  - 8mm to edge of keycaps (2 x 3mm closed layer + 2mm top layer)
+  - 9mm space on bottom (3 x 3mm open layer)
+  - one 2mm base layer
+- M2 standoff mounting:
+  - M2x20mm 3.5mm outer diameter round standoffs
+  - M2 flat top scews, 5mm long, 5mm wide(top)
 - Elite-c v4 usb-c controller
 - Handwired
 
+## Some notes
+swillkb params:
+- mount holes: 10, 3.5, 15
+- edge padding: 20
+- plate corners: 5
+- kerf: 0.15
+
 ## Need to find out:
-- Bottom space possible with 6mm?
 - How to mount ubs controller?
-- Stand offs and screw config? With feet?
 
 ## handy links
 - http://www.keyboard-layout-editor.com/#/
