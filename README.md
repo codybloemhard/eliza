@@ -19,7 +19,7 @@ I named mine after the Elise but I dutch-ified it.
   - M2x20mm 3.5mm outer diameter round standoffs
   - M2 flat top scews, 5mm long, 5mm wide(top)
 - Elite-c v4 usb-c controller
-- Handwired
+- Handwired: tube-like manhatten style brass wiring
 
 ## Some notes
 swillkb params:
@@ -27,6 +27,24 @@ swillkb params:
 - edge padding: 20
 - plate corners: 5
 - kerf: 0.15
+
+## Costs including shipping, tax, import
+Total: 83.36eur + ?
+- Hardware: 7.22eur
+  - 10 Gold coloured aluminium standoff: M2x20mm, OD: 3.5mm, 5.94eur
+  - 25 M2 stainless steel cross philips flat wafer head screw: 3mm long, 5mm wide, 1.28eur
+- Electronics: 30.52eur + ?
+  - Elite-C v4
+  - 50 through hole diodes
+  - unused M2 bits
+  - Wiring: ?
+- Caps, Switches: 45.62 + ?
+  - GMK Oblivion V3.1 ASCII: 37.62eur cost + 8eur shipping + 7.92eur taxes
+  - GMK Oblivion V2 Git: 0eur (use some caps from left overs of in-use set)
+  - Swithes: ?
+- Construction: ?
+  - Plate: ?
+  - Acrylic: ?
 
 ## Need to find out:
 - How to mount ubs controller?
@@ -36,3 +54,4 @@ swillkb params:
 - https://kbplate.ai03.com/
 - https://plate.keeb.io/
 - http://builder.swillkb.com
+- https://kbfirmware.com/
