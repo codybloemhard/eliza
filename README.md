@@ -5,9 +5,11 @@ On of those ergo in one piece layouts.
 They tend to have short feminini names such as `Alice` and `Elise`.
 The layout was inspired by the `Prime Elise` keyboard which is a very cute 40 percent layout.
 I named mine after the Elise but I dutch-ified it.
-- 40 key layout
+- 42 key layout
 - stabless
-- 15 degree split
+  - Stabs are useless: you press a key at a certain sweetspot, if a key is big enough for a stab it's wasting space anyway.
+- 11.25 degree split
+  - First it was 15 degrees but after seeing some Alice style layouts having 6 and 7 degree angles i compromised to 11.25.
 
 ## Stacked acrylic build plan
 - 20.5mm thickness:
