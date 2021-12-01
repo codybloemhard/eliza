@@ -24,11 +24,15 @@ I named mine after the Elise but I dutch-ified it.
 - Handwired: tube-like manhatten style brass wiring
 
 ## Some notes
-swillkb params:
-- mount holes: 10, 3.5, 15
-- edge padding: 20
-- plate corners: 5
-- kerf: 0.15
+- swillkb params:
+  - mount holes: 10, 3.5, 15
+  - edge padding: 20
+  - plate corners: 5
+  - kerf: 0.15
+- Elite C dimensions: 19mm x 35mm x 5mm
+- plate switches selection: 247.498mm x 102.721mm at 26.947, 29.393
+- top at 23.945, 26.208 which is relative to switches selection at: -3.002, -3.185
+- stroke: 0.189mm (plate)
 
 ## Costs including shipping, tax, import
 Total: 83.36eur + ?
@@ -43,7 +47,7 @@ Total: 83.36eur + ?
 - Caps, Switches: 45.62 + ?
   - GMK Oblivion V3.1 ASCII: 37.62eur cost + 8eur shipping + 7.92eur taxes
   - GMK Oblivion V2 Git: 0eur (use some caps from left overs of in-use set)
-  - Swithes: ?
+  - Switches: ?
 - Construction: ?
   - Plate: ?
   - Acrylic: ?
