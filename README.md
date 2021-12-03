@@ -13,8 +13,12 @@ I named mine after the Elise but I dutch-ified it.
 
 ## Stacked acrylic build plan
 - 20.5mm thickness:
+  - layers: bottom, plate, top, open, closed
   - Metal plate in middle (1.5mm).
-  - 8mm to edge of keycaps (2 x 3mm closed layer + 2mm top layer)
+  - 8mm to edge of keycaps
+    - (3mm open + 3mm closed + 2mm top)?
+    - (3mm open + 3mm top + 2mm top)?
+    - (2mm open + 2 x 2mm top)??
   - 9mm space on bottom (3 x 3mm open layer)
   - one 2mm base layer
 - M2 standoff mounting:
