@@ -2,14 +2,15 @@
 
 ## Eliza
 On of those ergo in one piece layouts.
-They tend to have short feminini names such as `Alice` and `Elise`.
+They tend to have short feminine names such as `Alice` and `Elise`.
 The layout was inspired by the `Prime Elise` keyboard which is a very cute 40 percent layout.
 I named mine after the Elise but I dutch-ified it.
 - 42 key layout
 - stabless
-  - Stabs are useless: you press a key at a certain sweetspot, if a key is big enough for a stab it's wasting space anyway.
+  - you press a key at a certain sweetspot which isn't that big
+  - if a key is big enough for a stab it's wasting space: you will never hit outside the small sweetspot
 - 11.25 degree split
-  - First it was 15 degrees but after seeing some Alice style layouts having 6 and 7 degree angles i compromised to 11.25.
+  - First it was 15 degrees but after seeing some Alice style layouts having 6 and 7 degree angles i deradicalized to 11.25
 
 ## Stacked acrylic build plan
 - 20.5mm thickness:
@@ -18,7 +19,7 @@ I named mine after the Elise but I dutch-ified it.
   - 8mm to edge of keycaps
     - (3mm open + 3mm closed + 2mm top)?
     - (3mm open + 3mm top + 2mm top)?
-    - (2mm open + 2 x 2mm top)??
+    - (2mm open + 2 x 3mm top)?
   - 9mm space on bottom (3 x 3mm open layer)
   - one 2mm base layer
 - M2 standoff mounting:
@@ -56,12 +57,10 @@ Total: 83.36eur + ?
   - Plate: ?
   - Acrylic: ?
 
-## Need to find out:
-- How to mount ubs controller?
-
 ## handy links
 - http://www.keyboard-layout-editor.com/#/
 - https://kbplate.ai03.com/
 - https://plate.keeb.io/
 - http://builder.swillkb.com
 - https://kbfirmware.com/
+- https://deskthority.net/wiki/Elite-C
