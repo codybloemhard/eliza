@@ -13,20 +13,30 @@ I named mine after the Elise but I dutch-ified it.
   - First it was 15 degrees but after seeing some Alice style layouts having 6 and 7 degree angles i deradicalized to 11.25
 
 ## Stacked acrylic build plan
-- 20.5mm thickness:
-  - layers: bottom, plate, top, open, closed
-  - Metal plate in middle (1.5mm).
-  - 8mm to edge of keycaps
-    - (3mm open + 3mm closed + 2mm top)?
-    - (3mm open + 3mm top + 2mm top)?
-    - (2mm open + 2 x 3mm top)?
-  - 9mm space on bottom (3 x 3mm open layer)
-  - one 2mm base layer
 - M2 standoff mounting:
   - M2x20mm 3.5mm outer diameter round standoffs
   - M2 flat top scews, 5mm long, 5mm wide(top)
 - Elite-c v4 usb-c controller
-- Handwired: tube-like manhatten style brass wiring
+- Handwired:
+  - thick brass/copper wiring for rows and columns
+  - connect to MCU with thin flexible normal wiring
+- Layers: plate(metal), bottom, top, open, closed (acrylic)
+- 20.5mm A:
+  - 8mm to edge of keycaps
+    - 2 x 3mm closed + 2mm top
+    - 2mm closed + 2 x 3mm top
+    - 2mm top + 2 x 3mm top
+  - 1.5mm plate
+  - 9mm space on bottom (3 x 3mm open layer)
+  - 2mm base layer
+- 20.5mm B:
+  - 7mm to edge of keycaps
+    - 2 x 2mm closed + 3mm top
+    - 3mm closed + 2 x 2mm top
+    - 3mm top + 2 x 2mm top
+  - 1.5mm plate
+  - 9mm space on bottom (3 x 3mm open layer)
+  - 3mm base layer
 
 ## Some notes
 - swillkb params:
