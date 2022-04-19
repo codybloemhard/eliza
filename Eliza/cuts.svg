@@ -351,9 +351,9 @@
      inkscape:document-units="mm"
      showgrid="false"
      showguides="true"
-     inkscape:zoom="1.7394827"
-     inkscape:cx="545.56449"
-     inkscape:cy="308.42503"
+     inkscape:zoom="1.23"
+     inkscape:cx="545.52846"
+     inkscape:cy="308.53659"
      inkscape:window-width="2560"
      inkscape:window-height="1440"
      inkscape:window-x="0"
@@ -1246,7 +1246,7 @@
      inkscape:groupmode="layer"
      id="g3968"
      inkscape:label="virtual"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <rect
        style="fill:#000000;fill-opacity:0.0014062;stroke:#000000;stroke-width:0.147795"
