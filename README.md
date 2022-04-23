@@ -1,6 +1,5 @@
-# keyboards
+# Eliza
 
-## Eliza
 On of those ergo in one piece layouts.
 They tend to have short feminine names such as `Alice` and `Elise`.
 The layout was inspired by the `Prime Elise` keyboard which is a very cute 40 percent layout.
