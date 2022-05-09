@@ -12,6 +12,7 @@ I named mine after the Elise but I dutch-ified it.
   - First it was 15 degrees but after seeing some Alice style layouts having 6 and 7 degree angles i deradicalized to 11.25
 
 ## Stacked acrylic build plan
+
 - M2 standoff mounting:
   - M2x20mm 3.5mm outer diameter round standoffs
   - M2 flat top scews, 5mm long, 5mm wide(top)
@@ -19,7 +20,7 @@ I named mine after the Elise but I dutch-ified it.
 - Handwired:
   - thick brass/copper wiring for rows and columns
   - connect to MCU with thin flexible normal wiring
-- Layers: plate(metal), bottom, top, open, closed (acrylic)
+- Layers: plate (metal), bottom, top, open, closed (acrylic)
 - 20.5mm A:
   - 8mm to edge of keycaps
     - 2 x 3mm closed + 2mm top
@@ -38,6 +39,7 @@ I named mine after the Elise but I dutch-ified it.
   - 3mm base layer
 
 ## Some notes
+
 - swillkb params:
   - mount holes: 10, 3.5, 15
   - edge padding: 20
@@ -47,26 +49,37 @@ I named mine after the Elise but I dutch-ified it.
 - plate switches selection: 247.498mm x 102.721mm at 26.947, 29.393
 - top at 23.945, 26.208 which is relative to switches selection at: -3.002, -3.185
 - stroke: 0.189mm (plate)
+- 976 gr: (6 x 3mm + 2mm) x (29 cm x 14 cm) perspex clear pmma + foil + stickers
 
-## Costs including shipping, tax, import
-Total: 83.36eur + ?
-- Hardware: 7.22eur
-  - 10 Gold coloured aluminium standoff: M2x20mm, OD: 3.5mm, 5.94eur
-  - 25 M2 stainless steel cross philips flat wafer head screw: 3mm long, 5mm wide, 1.28eur
-- Electronics: 30.52eur + ?
+## Costs including shipping, tax, import (for me)
+
+Total: 182.47 eur
+- Hardware: 7.22
+  - 10 Gold coloured aluminium standoff: M2x20mm, OD: 3.5mm, 5.94
+  - 25 M2 stainless steel cross philips flat wafer head screw: 3mm long, 5mm wide, 1.28
+- Electronics: 30.52 + ?
   - Elite-C v4
   - 50 through hole diodes
   - unused M2 bits
   - Wiring: ?
 - Caps, Switches: 45.62 + ?
-  - GMK Oblivion V3.1 ASCII: 37.62eur cost + 8eur shipping + 7.92eur taxes
-  - GMK Oblivion V2 Git: 0eur (use some caps from left overs of in-use set)
+  - GMK Oblivion V3.1 ASCII: 37.62 cost + 8 shipping = 45.62 (of which 7.92 is tax)
+  - GMK Oblivion V2 Git: 0 (used some caps from left overs of in-use set)
   - Switches: ?
-- Construction: ?
-  - Plate: ?
-  - Acrylic: ?
+  - Tribosys 3204: 0 (used left over from previous build)
+  - Kebo switch films: 0 (used left over from previous build)
+- Construction: 99.11
+  - Copper plate: 30.87 cost + 20.14 shipping + 10.71 tax = 61.72
+  - Acrylic: 15 cost + 15.90 shipping + 6.49 tax = 37.39
+
+Lesson to be learned: when building things like this from scratch you need to order many separate items.
+All these are going to have shipping included even if it's just a silly small thing.
+Shipping can be more costly than the item itself on many occasions.
+I hoped it would be cheaper to build something like this.
+I even used some items I already had left over from a previous build reducing the cost.
 
 ## handy links
+
 - http://www.keyboard-layout-editor.com/#/
 - https://kbplate.ai03.com/
 - https://plate.keeb.io/
