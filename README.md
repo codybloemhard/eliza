@@ -50,6 +50,11 @@ I named mine after the Elise but I dutch-ified it.
 - top at 23.945, 26.208 which is relative to switches selection at: -3.002, -3.185
 - stroke: 0.189mm (plate)
 - 976 gr: (6 x 3mm + 2mm) x (29 cm x 14 cm) perspex clear pmma + foil + stickers
+- laserboost cutplate:
+  - 2mm screw holes perfect
+  - 3.5mm standof holes to small (or stand of to thick)
+  - switches fit, but are fitted horizontally (ok with cherry profile)
+  - 320 gr
 
 ## Costs including shipping, tax, import (for me)
 
