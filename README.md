@@ -54,26 +54,42 @@ I named mine after the Elise but I dutch-ified it.
   - 2mm screw holes perfect
   - 3.5mm standof holes to small (or stand of to thick)
   - switches fit, but are fitted horizontally (ok with cherry profile)
+    - not true, it does fit right but it's really tight
   - 320 gr
+- many separate parts + shipping is expensive
+- budget lasers brm lasers: 46x26 cm workspace, takes DXF R14 via RDWorks
+- RDWorks import cannot handle primitives(wrong scale), convert all primitives to paths
+- RDWorks has wrong uniform scale, need to go in inkscape to see how big your objects are and set it in RDWorks
+- RDWorks is a sad piece of software that freaks out if you enter a floating point number that doesn't have 3 digits after the dot
+- RDWorks UI is ugly and crap
+- laser cutter did some random things wrong:
+  - little indentation that doesn't exist in file
+  - a whole wrong part that never existed, looks like a weird combination of files
+- Parts mostly fit, but a few holes are just a bit off so it doesn't (tolerances?)
+- Metal part not completely matches up with acrylic parts(standoff holes too small)
 
-## Costs including shipping, tax, import (for me)
+## Costs including shipping, tax, import in EUR (for me personally)
 
-Total: 182.47 eur
-- Hardware: 7.22
-  - 10 Gold coloured aluminium standoff: M2x20mm, OD: 3.5mm, 5.94
-  - 25 M2 stainless steel cross philips flat wafer head screw: 3mm long, 5mm wide, 1.28
+Total: 11.52 + 30.52 + 105.16 + 99.11 + ? = 246.31 + ?
+- Hardware: 5.94 + 1.28 + 4.3 + ? = 11.52 + ?
+  - 10 Gold coloured aluminium standoff: M2x20mm, OD: 3.5mm =  5.94
+  - 25 M2 stainless steel cross philips flat wafer head screw: 3mm long, 5mm wide = 1.28
+  - 100 M2 washers = 4.3
+  - Feet = ?
 - Electronics: 30.52 + ?
   - Elite-C v4
   - 50 through hole diodes
   - unused M2 bits
   - Wiring: ?
-- Caps, Switches: 45.62 + ?
+- Caps, Switches: 45.62 + 31.50 + 10.08 + 17.96 = 105.16
   - GMK Oblivion V3.1 ASCII: 37.62 cost + 8 shipping = 45.62 (of which 7.92 is tax)
   - GMK Oblivion V2 Git: 0 (used some caps from left overs of in-use set)
-  - Switches: ?
+  - Switches: Gateron Ink Black V2 10 x 5 = 31.50
+  - Springs: Tx Springs L 16mm 62gr = 10.08
+  - Tax + Shipping (Switches + Springs + Washers + ...) = 12.08 tax + 5.88 shipping = 17.96
   - Tribosys 3204: 0 (used left over from previous build)
   - Kebo switch films: 0 (used left over from previous build)
-- Construction: 99.11
+- Construction: 61.72 + 37.39 = 99.11
   - Copper plate: 30.87 cost + 20.14 shipping + 10.71 tax = 61.72
   - Acrylic: 15 cost + 15.90 shipping + 6.49 tax = 37.39
 
