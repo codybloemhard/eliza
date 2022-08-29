@@ -15,7 +15,18 @@ I named mine after the Elise but I dutch-ified it.
     - extra maintainace: can unlube themselves and start rattling, lube gets dirty
 - 11.25 degree split
   - First it was 15 degrees but after seeing some Alice style layouts having 6 and 7 degree angles i deradicalized to 11.25
-  - With some dry testing, 11.25 seems fine and not too much, don't know why other boards keep such a low angle
+  - After typing on it, 11.25 seems fine and not too much, don't know why other boards keep such a low angle
+
+![](eliza.jpg)
+![](eliza-handwire.jpg)
+
+[sound test on youtube](https://youtu.be/kfLyLSXiLqk)
+
+## Disclaimer
+This is is my first project of this kind, the design is not flawless.
+I did need some "work" for the parts to fit together.
+The files are as I used them to build my board.
+Build/use/adapt at your own risk.
 
 ## Stacked acrylic build plan
 
@@ -23,17 +34,24 @@ I named mine after the Elise but I dutch-ified it.
   - M2x20mm 3.5mm outer diameter round standoffs
   - M2 flat top scews, 5mm long, 5mm wide(top)
 - Elite-c v4 usb-c controller
-- Handwired:
-  - thick brass/copper wiring for rows and columns
-  - connect to MCU with thin flexible normal wiring
+- handwired
 - Layers: plate (metal), bottom, top, open, closed (acrylic)
 - 21.5mm:
   - 8mm to edge of keycaps
-    - 2mm top 
+    - 2mm top
     - 3mm top x 2
   - 1.5mm plate
   - 9mm space on bottom (3 x 3mm open layer)
   - 3mm base layer
+
+## Some measurements
+- Elite C dimensions: 19mm x 35mm x 5mm
+- Plate switches selection: 247.498mm x 102.721mm at 26.947, 29.393
+- Top at 23.945, 26.208 which is relative to switches selection at: -3.002, -3.185
+- Stroke: 0.189mm (plate)
+- 976 gr: (6 x 3mm + 2mm) x (29 cm x 14 cm) perspex clear pmma + foil + stickers
+- Laserboost cut plate: 320 gr
+- Fully build weight: 786 gr
 
 ## Some notes
 
@@ -42,36 +60,29 @@ I named mine after the Elise but I dutch-ified it.
   - edge padding: 20
   - plate corners: 5
   - kerf: 0.15
-- Elite C dimensions: 19mm x 35mm x 5mm
-- plate switches selection: 247.498mm x 102.721mm at 26.947, 29.393
-- top at 23.945, 26.208 which is relative to switches selection at: -3.002, -3.185
-- stroke: 0.189mm (plate)
-- 976 gr: (6 x 3mm + 2mm) x (29 cm x 14 cm) perspex clear pmma + foil + stickers
-- laserboost cutplate:
-  - 2mm screw holes perfect
-  - 3.5mm standof holes to small (or stand of to thick)
-  - switches fit, but are fitted horizontally (ok with cherry profile)
-    - not true, it does fit right but it's really tight
-  - 320 gr
-- many separate parts + shipping is expensive
-- budget lasers brm lasers: 46x26 cm workspace, takes DXF R14 via RDWorks
+- Budget lasers brm lasers: 46x26 cm workspace, takes DXF R14 via RDWorks
 - RDWorks import cannot handle primitives(wrong scale), convert all primitives to paths
 - RDWorks has wrong uniform scale, need to go in inkscape to see how big your objects are and set it in RDWorks
 - RDWorks is a sad piece of software that freaks out if you enter a floating point number that doesn't have 3 digits after the dot
-- RDWorks UI is ugly and crap
-- laser cutter did some random things wrong:
+- RDWorks UI is ugly and crap(windows 98 looking mf)
+- Laser cutter did some random things wrong:
   - little indentation that doesn't exist in file
-  - a whole wrong part that never existed, looks like a weird combination of files
-- Parts mostly fit, but a few holes are just a bit off so it doesn't (tolerances?)
-- Metal part not completely matches up with acrylic parts(standoff holes too small)
+  - A whole wrong part that never existed, looks like a weird combination of files
 
-## Things that are stuffed
+## Things that are scuffed
+
 - The plate and the acrylic mounting holes didn't quite line up and I drilled out the plate
 - The laser cutting didn't cut through each layer all the way through and breaking them out left some
 scuffed edges on some layers
 - My switch lubing consistency is not optimal...
 - My hand finish on the plate is scuffed
 - Keeping finger prints that oxidize off the plate is hard, I gave up on the backside...
+- The top layer switches cutout could be better:
+  - The gap is inconsistent
+  - the gap could be smaller
+- Plan was to have a solid wire manhatten style handwire
+  - Rows are just diode rows
+  - Columns are only manhatten-ish-inspired
 
 ## Costs including shipping, tax, import in EUR (for me personally)
 
