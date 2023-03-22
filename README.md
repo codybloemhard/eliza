@@ -13,6 +13,9 @@ I named mine after the Elise but I dutch-ified it.
     - extra complication in plate
     - extra time spend on tuning
     - extra maintainace: can unlube themselves and start rattling, lube gets dirty
+      - can unlube themselves and start rattling
+      - lube gets dirty
+      - lube spreads through the keyboard
 - 11.25 degree split
   - First it was 15 degrees but after seeing some Alice style layouts having 6 and 7 degree angles i deradicalized to 11.25
   - After typing on it, 11.25 seems fine and not too much, don't know why other boards keep such a low angle
@@ -23,7 +26,8 @@ I named mine after the Elise but I dutch-ified it.
 [sound test on youtube](https://youtu.be/kfLyLSXiLqk)
 
 ## Disclaimer
-This is is my first project of this kind, the design is not flawless.
+
+This is is my first project of this kind. The design is not flawless.
 I did need some "work" for the parts to fit together.
 The files are as I used them to build my board.
 Build/use/adapt at your own risk.
@@ -81,16 +85,19 @@ scuffed edges on some layers
   - The gap is inconsistent
   - the gap could be smaller
 - Plan was to have a solid wire manhatten style handwire
-  - Rows are just diode rows
+  - Rows are just diode legs
   - Columns are only manhatten-ish-inspired
+- Plan was to stick on some feet but i couldn't be arsed
+  - It sits on a deskmat anyway
+  - Front left and right corners float a bit, but this gives a subtle "flex" feeling on keys at the edges and is fine
+  - Dragging the little monster might scratch your deskmat a bit with the screws
 
 ## Costs including shipping, tax, import in EUR (for me personally)
 
-Total: 7.22 + 30.52 + 105.16 + 99.11 + ? = 242.01 + ?
-- Hardware: 5.94 + 1.28 + ? = 7.22 + ?
+Total: 7.22 + 30.52 + 105.16 + 99.11 = 242.01
+- Hardware: 5.94 + 1.28 = 7.22
   - 10 Gold coloured aluminium standoff: M2x20mm, OD: 3.5mm =  5.94
   - 25 M2 stainless steel cross philips flat wafer head screw: 3mm long, 5mm wide = 1.28
-  - Feet = ?
 - Electronics: 30.52
   - Elite-C v4
   - 50 through hole diodes
@@ -102,13 +109,13 @@ Total: 7.22 + 30.52 + 105.16 + 99.11 + ? = 242.01 + ?
   - Switches: Gateron Ink Black V2 10 x 5 = 31.50
   - Springs: Tx Springs L 16mm 62gr = 10.08
   - Tax + Shipping (Switches + Springs + Washers + ...) = 12.08 tax + 5.88 shipping = 17.96
-  - Tribosys 3204: 0 (used left over from previous build)
-  - Kebo switch films: 0 (used left over from previous build)
+  - Tribosys 3204: 0 (i used leftovers from previous build)
+  - Kebo switch films: 0 (i used leftovers from previous build)
 - Construction: 61.72 + 37.39 = 99.11
   - Copper plate: 30.87 cost + 20.14 shipping + 10.71 tax = 61.72
   - Acrylic: 15 cost + 15.90 shipping + 6.49 tax = 37.39
 
-Lesson to be learned: when building things like this from scratch you need to order many separate items.
+Lesson learned: when building things like this from scratch you need to order many separate items.
 All these are going to have shipping included even if it's just a silly small thing.
 Shipping can be more costly than the item itself on many occasions.
 I hoped it would be cheaper to build something like this.
@@ -126,7 +133,7 @@ I even used some items I already had left over from a previous build reducing th
 ## License
 
 ```
-Copyright (C) 2022 Cody Bloemhard
+Copyright (C) 2023 Cody Bloemhard
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
