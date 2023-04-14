@@ -78,9 +78,10 @@ Build/use/adapt at your own risk.
 - The plate and the acrylic mounting holes didn't quite line up and I drilled out the plate
 - The laser cutting didn't cut through each layer all the way through and breaking them out left some
 scuffed edges on some layers
-- My switch lubing consistency is not optimal...
+- My switch lubing consistency is not optimal
 - My hand finish on the plate is scuffed
 - Keeping finger prints that oxidize off the plate is hard, I gave up on the backside...
+- One of the standoff's finish has been scuffed by gripping it with pliers
 - The top layer switches cutout could be better:
   - The gap is inconsistent
   - the gap could be smaller
@@ -91,6 +92,22 @@ scuffed edges on some layers
   - It sits on a deskmat anyway
   - Front left and right corners float a bit, but this gives a subtle "flex" feeling on keys at the edges and is fine
   - Dragging the little monster might scratch your deskmat a bit with the screws
+- I cracked the acrylic by overtightening the screws
+- The plate is not quite tight enough in places, I pulled a cap off but the switch came out a bit and broke the handwire
+- The handwire has small pieces of tape on the crossing of rows and columns so it doesn't short. One of them might just fall out any moment and ruin the matrix, especially if you transport the keyboard.
+- I tried to clean the plate with alcohol but it left some spots when it dried up and I thought I could just get that off again but it's just really in there now and I don't know why
+
+## Things that are nice
+
+- I sounds good, without any foam or tape bullshit going on
+- The layout turned out well
+- It has no stabs (I hate stabs I hate stabs I hate stabs)
+- Handwire is cool even my shitty one
+- Even though it has visible scuffs and cracks it still looks pretty good
+- GMK caps are always nice
+- Those gat inks are smooth
+- It's my baby that I designed and build
+- My cat(Kiwi) loves it too she always all over it when I try to use it at night
 
 ## Costs including shipping, tax, import in EUR (for me personally)
 
