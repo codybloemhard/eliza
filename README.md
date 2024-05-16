@@ -1,24 +1,24 @@
 # Eliza
 
-On of those ergo in one piece layouts.
+Unibody ergo keyboard.
 They tend to have short feminine names such as `Alice` and `Elise`.
 The layout was inspired by the `Prime Elise` keyboard which is a very cute 40 percent layout.
 I named mine after the Elise but I dutch-ified it.
 - 42 key layout
 - stabless
-  - you press a key at a certain sweetspot which isn't that big
-  - if a key is big enough for a stab it's wasting space: you will never hit outside the small sweetspot
+  - you press a key at a certain sweet spot which isn't that big
+  - if a key is big enough for a stab it's wasting space: you will never hit outside the small sweet spot
   - stabs are a pain in the ass
     - extra cost
     - extra complication in plate
     - extra time spend on tuning
-    - extra maintainace: can unlube themselves and start rattling, lube gets dirty
+    - extra maintenance
       - can unlube themselves and start rattling
       - lube gets dirty
       - lube spreads through the keyboard
 - 11.25 degree split
-  - First it was 15 degrees but after seeing some Alice style layouts having 6 and 7 degree angles i deradicalized to 11.25
-  - After typing on it, 11.25 seems fine and not too much, don't know why other boards keep such a low angle
+  - first it was 15 degrees but after seeing some Alice style layouts having 6 and 7 degree angles I deradicalised to 11.25
+  - after typing on it, 11.25 seems fine and not too much, don't know why other boards keep such a low angle
 
 ![](eliza.jpg)
 ![](eliza-handwire.jpg)
@@ -36,10 +36,10 @@ Build/use/adapt at your own risk.
 
 - M2 standoff mounting:
   - M2x20mm 3.5mm outer diameter round standoffs
-  - M2 flat top scews, 5mm long, 5mm wide(top)
+  - M2 flat top screws, 5mm long, 5mm wide(top)
 - Elite-c v4 usb-c controller
 - handwired
-- Layers: plate (metal), bottom, top, open, closed (acrylic)
+- layers: plate (metal), bottom, top, open, closed (acrylic)
 - 21.5mm:
   - 8mm to edge of keycaps
     - 2mm top
@@ -50,12 +50,12 @@ Build/use/adapt at your own risk.
 
 ## Some measurements
 - Elite C dimensions: 19mm x 35mm x 5mm
-- Plate switches selection: 247.498mm x 102.721mm at 26.947, 29.393
-- Top at 23.945, 26.208 which is relative to switches selection at: -3.002, -3.185
-- Stroke: 0.189mm (plate)
+- plate switches selection: 247.498mm x 102.721mm at 26.947, 29.393
+- top at 23.945, 26.208 which is relative to switches selection at: -3.002, -3.185
+- stroke: 0.189mm (plate)
 - 976 gr: (6 x 3mm + 2mm) x (29 cm x 14 cm) perspex clear pmma + foil + stickers
 - Laserboost cut plate: 320 gr
-- Fully build weight: 786 gr
+- fully build weight: 786 gr
 
 ## Some notes
 
@@ -68,46 +68,46 @@ Build/use/adapt at your own risk.
 - RDWorks import cannot handle primitives(wrong scale), convert all primitives to paths
 - RDWorks has wrong uniform scale, need to go in inkscape to see how big your objects are and set it in RDWorks
 - RDWorks is a sad piece of software that freaks out if you enter a floating point number that doesn't have 3 digits after the dot
-- RDWorks UI is ugly and crap(windows 98 looking mf)
-- Laser cutter did some random things wrong:
+- RDWorks UI is ugly and crap (windows 98 looking mf)
+- laser cutter did some random things wrong:
   - little indentation that doesn't exist in file
-  - A whole wrong part that never existed, looks like a weird combination of files
+  - a whole wrong part that never existed, looks like a weird combination of files
 
 ## Things that are scuffed
 
-- The plate and the acrylic mounting holes didn't quite line up and I drilled out the plate
-- The laser cutting didn't cut through each layer all the way through and breaking them out left some
+- the plate and the acrylic mounting holes didn't quite line up and I drilled out the plate
+- the laser cutting didn't cut through each layer all the way through and breaking them out left some
 scuffed edges on some layers
-- My switch lubing consistency is not optimal
-- My hand finish on the plate is scuffed
-- Keeping finger prints that oxidize off the plate is hard, I gave up on the backside...
-- One of the standoff's finish has been scuffed by gripping it with pliers
-- The top layer switches cutout could be better:
-  - The gap is inconsistent
+- my switch lubing consistency is not optimal
+- my hand finish on the plate is scuffed
+- keeping finger prints that oxidise off the plate is hard, I gave up on the backside...
+- one of the standoff's finish has been scuffed by gripping it with pliers
+- the top layer switches cutout could be better:
+  - the gap is inconsistent
   - the gap could be smaller
-- Plan was to have a solid wire manhatten style handwire
-  - Rows are just diode legs
-  - Columns are only manhatten-ish-inspired
-- Plan was to stick on some feet but i couldn't be arsed
-  - It sits on a deskmat anyway
-  - Front left and right corners float a bit, but this gives a subtle "flex" feeling on keys at the edges and is fine
-  - Dragging the little monster might scratch your deskmat a bit with the screws
-- I cracked the acrylic by overtightening the screws
-- The plate is not quite tight enough in places, I pulled a cap off but the switch came out a bit and broke the handwire
+- plan was to have a solid wire manhatten style handwire
+  - rows are just diode legs
+  - columns are only manhatten-ish-inspired
+- plan was to stick on some feet but i couldn't be arsed
+  - it sits on a deskmat anyway
+  - front left and right corners float a bit, but this gives a subtle "flex" feeling on keys at the edges and is fine
+  - dragging the little monster might scratch your deskmat a bit with the screws
+- I cracked the acrylic by over tightening the screws
+- the plate is not quite tight enough in places, I pulled a cap off but the switch came out a bit and broke the handwire
 - The handwire has small pieces of tape on the crossing of rows and columns so it doesn't short. One of them might just fall out any moment and ruin the matrix, especially if you transport the keyboard.
 - I tried to clean the plate with alcohol but it left some spots when it dried up and I thought I could just get that off again but it's just really in there now and I don't know why
 
 ## Things that are nice
 
-- I sounds good, without any foam or tape bullshit going on
-- The layout turned out well
-- It has no stabs (I hate stabs I hate stabs I hate stabs)
-- Handwire is cool even my shitty one
-- Even though it has visible scuffs and cracks it still looks pretty good
+- it sounds good, without any foam or tape bullshit going on
+- the layout turned out well
+- it has no stabs (I hate stabs I hate stabs I hate stabs)
+- handwire is cool even my shitty one
+- even though it has visible scuffs and cracks it still looks pretty good
 - GMK caps are always nice
-- Those gat inks are smooth
-- It's my baby that I designed and build
-- My cat(Kiwi) loves it too she always all over it when I try to use it at night
+- those gat inks are smooth
+- it's my baby that I designed and build
+- my cat (Kiwi) loves it too she is always all over it when I try to use it at night
 
 ## Costs including shipping, tax, import in EUR (for me personally)
 
@@ -150,7 +150,7 @@ I even used some items I already had left over from a previous build reducing th
 ## License
 
 ```
-Copyright (C) 2023 Cody Bloemhard
+Copyright (C) 2024 Cody Bloemhard
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
